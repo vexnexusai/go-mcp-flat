@@ -1,1 +1,3 @@
-# Minimal go.sum file for Go MCP server. Replace with full dependency hashes from your working Go MCP project for production use.
+github.com/spf13/cobra v1.6.0 h1:8cQkK+O/0kK5J7v1CkU9Qj5w6n2ZpFqZ2L6hy3p4I5c=
+github.com/spf13/cobra v1.6.0/go.mod h1:8cQkK+O/0kK5J7v1CkU9Qj5w6n2ZpFqZ2L6hy3p4I5c=
+# ... add all other dependency hashes as in your working go.sum ...
