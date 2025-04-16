@@ -23,4 +23,4 @@ COPY --from=wrapper /app/server.js ./server.js
 COPY --from=wrapper /app/node_modules ./node_modules
 COPY --from=wrapper /app/package.json ./package.json
 EXPOSE 8081
-CMD ["/server/server.js"]
+CMD ["/server.js"]
